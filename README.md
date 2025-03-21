@@ -9,3 +9,5 @@ The contents of any of these scripts can be copied into your shell configuration
 These scripts are specific to my workflow needs, so make sure to update them to match your needs (for example using the correct context, namespaces, etc.)
 
 Run `source .zshrc` (or whatever file you are adding the functions to) to force your shell to load the contents after making changes.
+
+Enjoy.
