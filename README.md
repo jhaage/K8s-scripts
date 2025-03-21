@@ -10,4 +10,4 @@ These scripts are specific to my workflow needs, so make sure to update them to 
 
 Run `source .zshrc` (or whatever file you are adding the functions to) to force your shell to load the contents after making changes.
 
-Enjoy.
+Enjoy...
